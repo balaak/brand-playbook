@@ -3,6 +3,16 @@
 
 ---
 
+## SAMPLE OUTPUT
+
+Want to see what the final result looks like? Check out the sample brand playbook PDF included in this repo:
+
+📄 [PRAXIS_Brand_Playbook_v1.pdf](PRAXIS_Brand_Playbook_v1.pdf)
+
+This is a real 17-page brand playbook generated using this exact blueprint.
+
+---
+
 ## WHAT YOU'LL GET
 
 A professional 17-page brand playbook covering everything from your brand story and values to your logo system, color palette, typography, packaging, and messaging.
