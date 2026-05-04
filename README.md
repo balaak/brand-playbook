@@ -5,7 +5,7 @@
 
 ## WHAT YOU'LL GET
 
-A professional 17-page brand playbook covering everything from your brand story and values to your logo system, color palette, typography, packaging, and messaging. The kind of deliverable that branding agencies charge $5,000-$15,000 for.
+A professional 17-page brand playbook covering everything from your brand story and values to your logo system, color palette, typography, packaging, and messaging.
 
 ## WHAT YOU'LL NEED
 
